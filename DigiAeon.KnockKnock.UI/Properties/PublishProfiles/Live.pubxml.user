@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\KnockKnock_Live</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DigiAeon.Core.dll">
+      <publishTime>11/17/2015 19:21:11</publishTime>
+    </File>
+    <File Include="bin/DigiAeon.KnockKnock.Services.dll">
+      <publishTime>11/17/2015 19:46:04</publishTime>
+    </File>
+    <File Include="bin/DigiAeon.KnockKnock.Services.Interfaces.dll">
+      <publishTime>11/17/2015 19:21:11</publishTime>
+    </File>
+    <File Include="bin/DigiAeon.KnockKnock.UI.Configurations.dll">
+      <publishTime>11/17/2015 19:46:04</publishTime>
+    </File>
+    <File Include="bin/DigiAeon.KnockKnock.UI.dll">
+      <publishTime>11/17/2015 19:46:04</publishTime>
+    </File>
+    <File Include="bin/Fasterflect.dll">
+      <publishTime>11/05/2015 15:10:56</publishTime>
+    </File>
+    <File Include="bin/nunit.framework.dll">
+      <publishTime>11/05/2015 08:52:17</publishTime>
+    </File>
+    <File Include="bin/StructureMap.dll">
+      <publishTime>11/06/2015 09:12:22</publishTime>
+    </File>
+    <File Include="bin/StructureMap.Net4.dll">
+      <publishTime>11/06/2015 09:12:22</publishTime>
+    </File>
+    <File Include="RedPill.svc">
+      <publishTime>11/17/2015 19:10:21</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/17/2015 19:21:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

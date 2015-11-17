@@ -1,0 +1,4 @@
+obj/
+bin/
+StyleCop.Cache
+*.sln.DotSettings.user
