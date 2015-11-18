@@ -49,7 +49,7 @@
         /// <returns>
         /// The <see cref="long"/>.
         /// </returns>
-        public static long GetNthNonNegativeFibonacciNumber(this long n)
+        private static long GetNthNonNegativeFibonacciNumber(this long n)
         {
             if (n < 0)
             {
